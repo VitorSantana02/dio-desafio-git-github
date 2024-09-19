@@ -1,2 +1,2 @@
-# dio-desafio-git-github
-Primeiro repositório teste para Git/Github
+# Desafío Git/GitHub DIO
+Primeiro repositório teste para prática em Git/Github.
